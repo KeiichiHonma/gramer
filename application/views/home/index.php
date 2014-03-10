@@ -152,7 +152,7 @@ contents
         <h3>Webサービス開発を丁寧に作り続けてきました</h3>
         <p class="text"><?php echo nl2br($this->lang->line('gramer_message_1')); ?></p>
         <br />
-        <h2 class="content">[価格 “固定“ 主義]</h2>
+        <h2>[価格 “固定“ 主義]</h2>
         <h3>なぜサービス開発は言い値なのか？明瞭な価格 “固定“ でのシステム開発・運用を目指すプログラマー集団</h3>
         <p class="text"><?php echo nl2br($this->lang->line('gramer_message_2')); ?></p>
         <div class="guide">
