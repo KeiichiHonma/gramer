@@ -161,62 +161,47 @@ contents
                 <h2 class="content">[提供サービス]</h2>
                 <div class="line cf">
                     <div class="box">
-                        <a href="/spring/plan/2/321633/4/2014-05-05/00820651">
                         <div class="photo spot"><img src="/images/274-big.png" alt=""/><div class="shadow">&nbsp;</div><span>お問い合わせフォーム開発</span></div>
                         <div class="text">
                             
                             <div class="date"><em class="sun"> [固定価格]</em>30,000円</div>
                             <div class="catch">項目の入力チェック</div><div class="catch">バリデーションチェック</div><div class="catch">項目数無制限</div><div class="catch">修正依頼無料対応</div>
                         </div>
-                        
-                        </a>
                     </div>
                     <div class="box">
-                        <a href="/spring/plan/2/321633/4/2014-05-05/00820651">
                         <div class="photo spot"><img src="/images/price/wordpress.jpg" alt=""/><div class="shadow">&nbsp;</div><span>Wordpressカスタマイズ</span></div>
                         <div class="text">
                             
                             <div class="date"><em class="sun"> [固定価格]</em>30,000円</div>
                             <div class="catch">Wordpress初期設置</div><div class="catch">Wordpressのリプレイス</div><div class="catch">プラグイン開発</div><div class="catch">機能別カスタマイズ</div>
                         </div>
-                        
-                        </a>
                     </div>
 
                     <div class="box">
-                        <a href="/spring/plan/2/321633/4/2014-05-05/00820651">
                         <div class="photo spot"><img src="/images/ec.png" alt=""/><div class="shadow">&nbsp;</div><span>ECサイト開発</span></div>
                         <div class="text">
                             
                             <div class="date"><em class="sun"> [固定価格]</em>500,000円</div>
                             <div class="catch">会員管理</div><div class="catch">オリジナルカート機能</div><div class="catch">商品管理</div>
                         </div>
-                        
-                        </a>
                     </div>
                 </div>
                 <div class="line cf">
                    <div class="box">
-                        <a href="/spring/plan/2/321633/4/2014-05-05/00820651">
                         <div class="photo spot"><img src="/images/site_namage.jpg" alt=""/><div class="shadow">&nbsp;</div><span>サイト運営</span></div>
                         <div class="text">
                             
                             <div class="date"><em class="sun"> [固定価格]</em>30,000円/月額</div>
                             <div class="catch">専任エンジニアアサイン</div><div class="catch">ニュース更新</div><div class="catch">ファイルアップロード</div><div class="catch">ワードプレス管理</div><div class="catch">CMS管理</div><div class="catch">修正依頼無料対応</div>
                         </div>
-                        
-                        </a>
                     </div>
                     <div class="box">
-                        <a href="/spring/plan/2/321633/4/2014-05-05/00820651">
                         <div class="photo spot"><img src="/images/server.jpg" alt=""/><div class="shadow">&nbsp;</div><span>保守・メンテナンス管理</span></div>
                         <div class="text">
                             
                             <div class="date"><em class="sun"> [固定価格]</em>50,000円/月額</div>
                             <div class="catch">専任エンジニアアサイン</div><div class="catch">トラブル対応</div><div class="catch">専用サーバー構築</div><div class="catch">オリジナルWebサービス運用</div>
                         </div>
-                        
-                        </a>
                     </div>
                 </div>
             </div>
@@ -226,7 +211,7 @@ contents
                 <h2 class="content">[事例紹介]</h2>
                 <div class="line cf">
                     <div class="box">
-                        <a href="/spring/plan/2/321633/4/2014-05-05/00820651">
+                        <a href="http://www.serviced-apartments-tokyo.com/" target="_blank">
                         <div class="photo spot"><img src="/images/works/tsa.jpg" alt=""/><div class="shadow">&nbsp;</div><span>東京サービスアパートメント</span></div>
                         <div class="text">
                             <div class="date"><em class="sat"> [参考固定価格]</em>1,200,000円</div>
@@ -236,7 +221,7 @@ contents
                         </a>
                     </div>
                     <div class="box">
-                        <a href="/spring/plan/2/321633/4/2014-05-05/00820651">
+                        <a href="http://www.tokyoapt-rent.com/" target="_blank">
                         <div class="photo spot"><img src="/images/works/tar.jpg" alt=""/><div class="shadow">&nbsp;</div><span>東京アパートメントレント</span></div>
                         <div class="text">
                             <div class="date"><em class="sat"> [参考固定価格]</em>800,000円</div>
@@ -246,7 +231,7 @@ contents
                         </a>
                     </div>
                     <div class="box">
-                        <a href="/spring/plan/2/321633/4/2014-05-05/00820651">
+                        <a href="http://balloooooon.com/intl/ja/" target="_blank">
                         <div class="photo spot"><img src="/images/works/balloooooon.jpg" alt=""/><div class="shadow">&nbsp;</div><span>Balloooooon!</span></div>
                         <div class="text">
                             
@@ -258,7 +243,7 @@ contents
                 </div>
                 <div class="line cf">
                     <div class="box">
-                        <a href="/spring/plan/2/321633/4/2014-05-05/00820651">
+                        <a href="http://www.china-adviser.com/" target="_blank">
                         <div class="photo spot"><img src="/images/works/china_adviser.jpg" alt=""/><div class="shadow">&nbsp;</div><span>China Adviser</span></div>
                         <div class="text">
                             
@@ -268,7 +253,7 @@ contents
                         </a>
                     </div>
                     <div class="box">
-                        <a href="/spring/plan/2/321633/4/2014-05-05/00820651">
+                        <a href="http://www.talemado.com/" target="_blank">
                         <div class="photo spot"><img src="/images/works/talemado.jpg" alt=""/><div class="shadow">&nbsp;</div><span>タレントの窓口</span></div>
                         <div class="text">
                             
@@ -278,7 +263,7 @@ contents
                         </a>
                     </div>
                     <div class="box">
-                        <a href="/spring/plan/2/321633/4/2014-05-05/00820651">
+                        <a href="http://hareco.jp/" target="_blank">
                         <div class="photo spot"><img src="/images/works/hareco.jpg" alt=""/><div class="shadow">&nbsp;</div><span>ハレコ.jp</span></div>
                         <div class="text">
                             
