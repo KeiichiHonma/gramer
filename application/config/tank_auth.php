@@ -7,9 +7,9 @@
 | These details are used in emails sent by authentication library.
 |--------------------------------------------------------------------------
 */
-$config['website_name'] = 'Gramer';
-$config['info_email'] = 'keiichi-honma@gramer.co.jp';
-$config['webmaster_email'] = ENVIRONMENT == 'development' ? 'honma@zeus.corp.813.co.jp' : 'keiichi-honma@gramer.co.jp';
+$config['website_name'] = 'The-o';
+$config['info_email'] = 'keiichi-honma@813.co.jp';
+$config['webmaster_email'] = ENVIRONMENT == 'development' ? 'honma@zeus.corp.813.co.jp' : 'keiichi-honma@813.co.jp';
 
 /*
 |--------------------------------------------------------------------------

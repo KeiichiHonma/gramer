@@ -93,8 +93,8 @@ header
 -->
 <div id="header" class="cf">
     <div id="headerInner" class="cf">
-        <h1><a href="/">Gramer</a></h1>
-        <h2>価格固定主義カンパニー、ウェブサービス開発のグラマー | 思いついたアイディアをインターネット上に</h2>
+        <h1><a href="/">The-o</a></h1>
+        <h2>プログラマーが中心のWeb制作会社、ウェブサービス開発のthe-o | 思いついたアイディアをインターネット上に</h2>
     </div>
     <!-- パンクズ -->
     <div id="breadcrumb" class="scrolltop">
@@ -131,7 +131,7 @@ main image
         <div class="gradationRight"></div>
         <div id="copy">
             <div id="innerBox">
-                <div id="desc">Gramerは、価格“固定“を目指す、東京と北海道を拠点とするウェブサービス開発を得意としたプロ<b style="color:#FF3366;">グラマー</b>集団の会社です。<br />私たちの開発チームは、美しくて使い勝手の良い<b style="color:#FF3366;">グラマー</b>なウェブサービスを提供します。</div>
+                <div id="desc">Gramerは、価格“固定“を目指す、東京と北海道を拠点とするウェブサービス開発を得意としたプロ集団の会社です。<br />私たちの開発チームは、美しくて使い勝手の良いウェブサービスを提供します。</div>
             </div>
         </div>
     </div>
@@ -153,7 +153,7 @@ contents
         <p class="text"><?php echo nl2br($this->lang->line('gramer_message_1')); ?></p>
         <br />
         <h2>[価格 “固定“ 主義]</h2>
-        <h3>なぜサービス開発は言い値なのか？明瞭な価格 “固定“ でのシステム開発・運用を目指すプログラマー集団</h3>
+        <h3>なぜサービス開発は言い値なのか？明瞭な価格 “固定“ でのシステム開発・運用を目指すプロ集団</h3>
         <p class="text"><?php echo nl2br($this->lang->line('gramer_message_2')); ?></p>
         <div class="guide">
             <div class="leisure">
@@ -227,48 +227,6 @@ contents
                             <div class="date"><em class="sat"> [参考固定価格]</em>800,000円</div>
                             <div class="catch">不動産サイト</div><div class="catch">一括お問い合せ機能</div><div class="catch">多言語</div>
                             <div class="catch">管理画面</div><div class="catch">サイト運営</div>
-                        </div>
-                        </a>
-                    </div>
-                    <div class="box">
-                        <a href="http://balloooooon.com/intl/ja/" target="_blank">
-                        <div class="photo spot"><img src="/images/works/balloooooon.jpg" alt=""/><div class="shadow">&nbsp;</div><span>Balloooooon!</span></div>
-                        <div class="text">
-                            
-                            <div class="date"><em class="sat"> [参考固定価格]</em>1,200,000円</div>
-                            <div class="catch">Webサービス</div><div class="catch">カート機能</div><div class="catch">会員管理</div><div class="catch">商品管理</div><div class="catch">サイト管理</div><div class="catch">サーバー運営</div>
-                        </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="line cf">
-                    <div class="box">
-                        <a href="http://www.china-adviser.com/" target="_blank">
-                        <div class="photo spot"><img src="/images/works/china_adviser.jpg" alt=""/><div class="shadow">&nbsp;</div><span>China Adviser</span></div>
-                        <div class="text">
-                            
-                            <div class="date"><em class="sat"> [参考固定価格]</em>500,000円</div>
-                            <div class="catch">中国進出支援サイト</div><div class="catch">事業紹介サイト</div><div class="catch">サイト運営</div>
-                        </div>
-                        </a>
-                    </div>
-                    <div class="box">
-                        <a href="http://www.talemado.com/" target="_blank">
-                        <div class="photo spot"><img src="/images/works/talemado.jpg" alt=""/><div class="shadow">&nbsp;</div><span>タレントの窓口</span></div>
-                        <div class="text">
-                            
-                            <div class="date"><em class="sat"> [参考固定価格]</em>500,000円</div>
-                            <div class="catch">キャスティング依頼サイト</div><div class="catch">一括お問い合せ機能</div><div class="catch">管理画面</div><div class="catch">サイト運営</div>
-                        </div>
-                        </a>
-                    </div>
-                    <div class="box">
-                        <a href="http://hareco.jp/" target="_blank">
-                        <div class="photo spot"><img src="/images/works/hareco.jpg" alt=""/><div class="shadow">&nbsp;</div><span>ハレコ.jp</span></div>
-                        <div class="text">
-                            
-                            <div class="date"><em class="sat"> [参考固定価格]</em>800,000円</div>
-                            <div class="catch">Webサービス</div><div class="catch">データクロール機能</div><div class="catch">スマホ対応</div><div class="catch">サイト運営</div>
                         </div>
                         </a>
                     </div>
