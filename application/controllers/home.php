@@ -44,9 +44,6 @@ class Home extends MY_Controller
         $data['search_type'] = 'area';//sp
 
         $data['topicpaths'][] = array('/',$this->lang->line('topicpath_home'));
-        $data['topicpaths'][] = array('/#about',$this->lang->line('topicpath_about'));
-        $data['topicpaths'][] = array('/#service',$this->lang->line('topicpath_service'));
-        $data['topicpaths'][] = array('/#works',$this->lang->line('topicpath_works'));
         $data['topicpaths'][] = array('/#contact',$this->lang->line('topicpath_contact'));
 
         //set header title
