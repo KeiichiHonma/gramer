@@ -94,7 +94,7 @@ header
 <div id="header" class="cf">
     <div id="headerInner" class="cf">
         <h1><a href="/">The-o</a></h1>
-        <h2>プログラマーが中心のWeb制作会社、ウェブサービス開発のthe-o | 思いついたアイディアをインターネット上に</h2>
+        <h2>プログラマーが中心のWeb制作会社、ウェブサービス開発のthe-o | アイディアを具現化する</h2>
     </div>
     <!-- パンクズ -->
     <div id="breadcrumb" class="scrolltop">
@@ -131,7 +131,7 @@ main image
         <div class="gradationRight"></div>
         <div id="copy">
             <div id="innerBox">
-                <div id="desc">the-oは、価格“固定“を目指す、東京と北海道を拠点とするウェブサービス開発を得意としたプロ集団の会社です。<br />私たちの開発チームは、美しくて使い勝手の良いウェブサービスを提供します。</div>
+                <div id="desc">the-oは、東京と北海道を拠点とするウェブサービス開発を得意としたプロ集団の会社です。<br />私たちの開発チームは、美しくて使い勝手の良いウェブサービスを提供します。</div>
             </div>
         </div>
     </div>
@@ -152,98 +152,9 @@ contents
         <h3>Webサービス開発を丁寧に作り続けてきました</h3>
         <p class="text"><?php echo nl2br($this->lang->line('gramer_message_1')); ?></p>
         <br />
-        <h2>[価格 “固定“ 主義]</h2>
-        <h3>なぜサービス開発は言い値なのか？明瞭な価格 “固定“ でのシステム開発・運用を目指すプロ集団</h3>
+        <h3>なぜサービス開発は言い値なのか？明瞭な価格でのシステム開発・運用を目指すプロ集団</h3>
         <p class="text"><?php echo nl2br($this->lang->line('gramer_message_2')); ?></p>
-        <div class="guide">
-            <div class="leisure">
-                <!-- 下段(スマホは非表示) -->
-                <h2 class="content">[提供サービス]</h2>
-                <div class="line cf">
-                    <div class="box">
-                        <div class="photo spot"><img src="/images/274-big.png" alt=""/><div class="shadow">&nbsp;</div><span>お問い合わせフォーム開発</span></div>
-                        <div class="text">
-                            
-                            <div class="date"><em class="sun"> [固定価格]</em>30,000円</div>
-                            <div class="catch">項目の入力チェック</div><div class="catch">バリデーションチェック</div><div class="catch">項目数無制限</div><div class="catch">修正依頼無料対応</div>
-                        </div>
-                    </div>
-                    <div class="box">
-                        <div class="photo spot"><img src="/images/price/wordpress.jpg" alt=""/><div class="shadow">&nbsp;</div><span>Wordpressカスタマイズ</span></div>
-                        <div class="text">
-                            
-                            <div class="date"><em class="sun"> [固定価格]</em>30,000円</div>
-                            <div class="catch">Wordpress初期設置</div><div class="catch">Wordpressのリプレイス</div><div class="catch">プラグイン開発</div><div class="catch">機能別カスタマイズ</div>
-                        </div>
-                    </div>
 
-                    <div class="box">
-                        <div class="photo spot"><img src="/images/ec.png" alt=""/><div class="shadow">&nbsp;</div><span>ECサイト開発</span></div>
-                        <div class="text">
-                            
-                            <div class="date"><em class="sun"> [固定価格]</em>500,000円</div>
-                            <div class="catch">会員管理</div><div class="catch">オリジナルカート機能</div><div class="catch">商品管理</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="line cf">
-                   <div class="box">
-                        <div class="photo spot"><img src="/images/site_namage.jpg" alt=""/><div class="shadow">&nbsp;</div><span>サイト運営</span></div>
-                        <div class="text">
-                            
-                            <div class="date"><em class="sun"> [固定価格]</em>30,000円/月額</div>
-                            <div class="catch">専任エンジニアアサイン</div><div class="catch">ニュース更新</div><div class="catch">ファイルアップロード</div><div class="catch">ワードプレス管理</div><div class="catch">CMS管理</div><div class="catch">修正依頼無料対応</div>
-                        </div>
-                    </div>
-                    <div class="box">
-                        <div class="photo spot"><img src="/images/server.jpg" alt=""/><div class="shadow">&nbsp;</div><span>保守・メンテナンス管理</span></div>
-                        <div class="text">
-                            
-                            <div class="date"><em class="sun"> [固定価格]</em>50,000円/月額</div>
-                            <div class="catch">専任エンジニアアサイン</div><div class="catch">トラブル対応</div><div class="catch">専用サーバー構築</div><div class="catch">オリジナルWebサービス運用</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="leisure">
-                <!-- 下段(スマホは非表示) -->
-                <h2 class="content">[事例紹介]</h2>
-                <div class="line cf">
-                    <div class="box">
-                        <a href="http://www.serviced-apartments-tokyo.com/" target="_blank">
-                        <div class="photo spot"><img src="/images/works/tsa.jpg" alt=""/><div class="shadow">&nbsp;</div><span>東京サービスアパートメント</span></div>
-                        <div class="text">
-                            <div class="date"><em class="sat"> [参考固定価格]</em>1,200,000円</div>
-                            <div class="catch">不動産サイト</div><div class="catch">一括お問い合せ機能</div><div class="catch">多言語</div>
-                            <div class="catch">業界No.1サイト</div><div class="catch">管理画面</div><div class="catch">サイト運営</div>
-                        </div>
-                        </a>
-                    </div>
-                    <div class="box">
-                        <a href="http://www.tokyoapt-rent.com/" target="_blank">
-                        <div class="photo spot"><img src="/images/works/tar.jpg" alt=""/><div class="shadow">&nbsp;</div><span>東京アパートメントレント</span></div>
-                        <div class="text">
-                            <div class="date"><em class="sat"> [参考固定価格]</em>800,000円</div>
-                            <div class="catch">不動産サイト</div><div class="catch">一括お問い合せ機能</div><div class="catch">多言語</div>
-                            <div class="catch">管理画面</div><div class="catch">サイト運営</div>
-                        </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-<!--
-                    <div class="box">
-                        <a href="/spring/plan/2/321633/4/2014-05-05/00820651">
-                        <div class="photo spot"><img src="/images/works/mangahack.jpg" alt=""/><div class="shadow">&nbsp;</div><span>漫画ハック</span></div>
-                        <div class="text">
-                            <div class="date"><em class="sat"> [参考固定価格]</em>非公開</div>
-                            <div class="catch">Webサービス</div><div class="catch">ユーザー管理</div><div class="catch">SNS連携</div>
-                            <div class="catch">画像投稿</div><div class="catch">管理画面</div>
-                        </div>
-                        </a>
-                    </div>
--->
             <div class="leisure">
                 <!-- 下段(スマホは非表示) -->
                 <h2 class="content">[お問い合わせ]</h2>
